@@ -12,8 +12,9 @@ This project follows a **microservices architecture**, with separate services fo
 
 ### Microservices:
 - **API Gateway** – Routes client requests to the appropriate service.
-- **Event Service** – Handles event creation, updates, and attendee management.
+- **Event Service** – Handles event creation, updates, deletion and attendee management.
 - **User Service** – Manages user accounts and their event bookings.
+- **Cli-Client** – Manages events and bookings through the API Gateway using REST calls.
 
 ---
 
@@ -31,3 +32,9 @@ This project follows a **microservices architecture**, with separate services fo
 | Server | Spring Boot Embedded Tomcat |
 
 ---
+
+## 👩‍💻 Members Contributed
+- **Harsh** - 2310990682
+- **Hiten** - 2310990691
+- **Manshika** - 2310990732
+- **Navya** - 2310990749
