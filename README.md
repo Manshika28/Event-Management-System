@@ -31,22 +31,3 @@ This project follows a **microservices architecture**, with separate services fo
 | Server | Spring Boot Embedded Tomcat |
 
 ---
-
-## 📂 Project Structure
-event-management/
-├── api-gateway/
-│ ├── src/
-│ ├── pom.xml
-│ └── application.properties
-│
-├── event-service/
-│ ├── src/
-│ ├── pom.xml
-│ └── schema.sql
-│
-├── user-service/
-│ ├── src/
-│ ├── pom.xml
-│ └── schema.sql
-│
-└── pom.xml (parent)
